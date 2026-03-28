@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+    <img src="images/logo.jpg" alt="主页图片 for Omege UOS logo" />
+</p>
 
-<!--
-**deeplearning-corporation/deeplearning-corporation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 参与我们的项目
+您可以使用：
+- 我们的 Microsoft Outlook（YS_MFAYGMGRXYG@outlook.com）
+- 我们的 BiliBili（UID 3493294325631048）
+- 我们的 QQ 群（1026732566）
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我们的项目均采用 MIT 许可证或 GPL v2。
