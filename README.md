@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://github.com/deeplearning-corporation/omegeuos/blob/main/images/logo.jpg" alt="主页图片 for Omege UOS logo" />
-</p>
 
 ## 参与我们的项目
 您可以使用：
